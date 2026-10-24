@@ -1,0 +1,119 @@
+{
+  "skill_description": "XXD Panel 347｜Costumed Watercolour Figure: keeps the photo and turns its subject into a small picture-book character standing upright and facing straight out, dressed for a journey in a one-colour cape, hood or pointed hat and holding a little stick or one small thing from the photo — a few flat transparent watercolour washes with dried tide-marks and dry-brushed fur, two tiny black dot eyes, no outlines or shadows, several subjects lined up side by side, nothing behind but a wide warm-white ground, and one faint handwritten pencil note centred below the feet with a gentle, deadpan joke; any Chinese is Simplified. Scenes are reduced to one representative element. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-347 or asks for a watercolour picture-book character, costumed pet portrait or storybook figure from a photo.",
+  "short_description": "戏服小立像：让照片主体正面站好、披上斗篷拿着小道具，画成暖白底上的水彩绘本角色",
+  "zh-CN": {
+    "name": "戏服小立像",
+    "tagline": "让照片主体正面站好、披上小戏服，变成绘本里准备远行的角色。",
+    "look": "背景、地面和光影都被删掉，主体正面朝外、端端正正地站着，披一件从肩头垂下的单色斗篷或兜帽，或戴一顶尖帽，手边拄一根小棍或拎一件照片里的小东西。整个角色是几大块透明水彩平涂，干后边缘留下水痕，毛茸茸的地方用干笔扫出，脸上只有两颗小黑点眼睛和一个小鼻尖，没有黑线勾边和投影。主体保留本来的颜色、画得淡一些，戏服是洗旧布料般的柔和色，只有道具上点一处暖亮色。身后是一整片暖白空底，脚下隔开一段空，有一行淡淡的手写铅笔小注，一本正经地介绍这位角色要去干什么。",
+    "traits": [
+      "正面端正站立",
+      "单色斗篷兜帽或尖帽",
+      "手边小道具",
+      "透明水彩平涂与水痕",
+      "两点小黑眼",
+      "一行淡铅笔小注"
+    ],
+    "good": [
+      "宠物和家人：一只猫、一只狗、一位老人、一个孩子",
+      "能“站起来”当角色的小物件：一把茶壶、一盆仙人掌、一只玩偶",
+      "有好几个主体的照片，它们会并排站成一排、各穿各的戏服"
+    ],
+    "poor": [
+      "想保留奔跑、跳跃或侧身动作的照片，这里一律正面站好",
+      "需要背景、风景或完整场景的需求，身后只有空底",
+      "想要大眼睛卡通脸、精细写实毛发、黑线勾边或花哨配色的需求"
+    ]
+  },
+  "en": {
+    "name": "Costumed Watercolour Figure",
+    "tagline": "Stands the subject of your photo upright in a little costume, like a picture-book character about to set off.",
+    "look": "Background, ground and lighting are removed, and the subject stands straight and faces out, wearing a one-colour cape or hood falling from the shoulders, or a pointed hat, with a little stick or one small thing from the photo in hand. The character is a few large flat washes of transparent watercolour with darker tide-marks where they dried, dry-brushed fur, and a face of just two tiny black dot eyes and a small nose, with no black outlines or cast shadows. The subject keeps its own colours, painted lighter; the costume is a soft, washed-out fabric colour, and only the prop carries one warm bright accent. Behind it is a whole warm-white ground, and a little below its feet sits one faint handwritten pencil note, gravely introducing where this character is off to.",
+    "traits": [
+      "Standing straight, facing out",
+      "One-colour cape, hood or pointed hat",
+      "A small prop",
+      "Flat watercolour with tide-marks",
+      "Two dot eyes",
+      "One faint pencil note"
+    ],
+    "good": [
+      "Pets and family: a cat, a dog, a grandparent, a child",
+      "Small objects that can stand up as a character: a teapot, a potted cactus, a soft toy",
+      "Photos with several subjects, which line up side by side in costumes of their own"
+    ],
+    "poor": [
+      "Photos where running, jumping or a side-on pose must be kept, since every figure stands facing out",
+      "Requests that need a background, landscape or full scene, since there is only an empty ground",
+      "Requests for big-eyed cartoon faces, detailed realistic fur, black outlines or busy colours"
+    ]
+  },
+  "ja": {
+    "name": "衣装の小さな立ち姿",
+    "tagline": "写真の主役を正面に立たせて小さな衣装を着せ、旅立つ絵本の登場人物にします。",
+    "look": "背景、地面、光と影を取り除き、主役は正面を向いてきちんと立ちます。肩からまっすぐ垂れる単色のマントやフードをまとうか、とんがり帽子をかぶり、小さな杖をついたり写真の中の小物を一つ提げたりします。全体は透明水彩の大きな平塗り数面で、乾いた縁には少し濃い水のあとが残り、ふわふわした部分はドライブラシで掃くように描きます。顔は小さな黒い点の目二つと小さな鼻先だけで、黒い輪郭線も影もありません。主役は本来の色を淡く残し、衣装は洗いざらしの布のような柔らかい色、小道具にだけ写真でいちばん暖かい明るい色を一点置きます。背後は一面の温かい白の余白で、足もとから少し空けて淡い鉛筆の手書きの小さな注が一行、この登場人物がどこへ何をしに行くのかを真顔で紹介します。",
+    "traits": [
+      "正面のきちんとした立ち姿",
+      "単色のマントやフード、とんがり帽子",
+      "手もとの小道具",
+      "透明水彩の平塗りと水のあと",
+      "点の目二つ",
+      "淡い鉛筆の一行"
+    ],
+    "good": [
+      "ペットや家族：猫、犬、おじいさんやおばあさん、子ども",
+      "立たせて登場人物にできる小物：ティーポット、サボテンの鉢、ぬいぐるみ",
+      "主役が何人もいる写真（それぞれの衣装で横一列に並びます）"
+    ],
+    "poor": [
+      "走る、跳ぶ、横向きの動きを残したい写真（すべて正面に立たせます）",
+      "背景や風景、場面全体が必要な場合（背後は余白だけです）",
+      "大きな目の漫画顔、写実的な細かい毛並み、黒い輪郭線、派手な配色を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "의상 입은 작은 입상",
+    "tagline": "사진 속 주인공을 정면으로 세우고 작은 의상을 입혀 길 떠나는 그림책 인물로 만듭니다.",
+    "look": "배경, 바닥, 빛과 그림자를 지우고 주인공은 정면을 보며 반듯하게 섭니다. 어깨에서 곧게 떨어지는 단색 망토나 후드를 두르거나 뾰족 모자를 쓰고, 작은 지팡이를 짚거나 사진 속 작은 물건 하나를 듭니다. 인물 전체는 투명 수채 몇 덩어리의 평칠로, 마른 가장자리에는 조금 짙은 물 자국이 남고 털 부분은 마른 붓으로 쓸어 표현합니다. 얼굴은 작은 검은 점 눈 두 개와 작은 코끝뿐이며 검은 외곽선도 그림자도 없습니다. 주인공은 원래 색을 옅게 살리고, 의상은 오래 빤 천 같은 부드러운 색, 소품에만 사진에서 가장 따뜻하고 밝은 색을 한 점 찍습니다. 뒤는 온통 따뜻한 흰 여백이고, 발밑에서 조금 띄운 자리에 옅은 연필 손글씨 한 줄이 이 인물이 무엇을 하러 떠나는지 진지하게 소개합니다.",
+    "traits": [
+      "정면으로 반듯이 선 자세",
+      "단색 망토, 후드, 뾰족 모자",
+      "손에 든 작은 소품",
+      "투명 수채 평칠과 물 자국",
+      "점 두 개의 눈",
+      "옅은 연필 메모 한 줄"
+    ],
+    "good": [
+      "반려동물과 가족: 고양이, 강아지, 할머니나 할아버지, 아이",
+      "세워서 인물로 만들 수 있는 작은 물건: 찻주전자, 선인장 화분, 인형",
+      "주인공이 여럿인 사진(각자 의상을 입고 나란히 한 줄로 섭니다)"
+    ],
+    "poor": [
+      "달리기, 점프, 옆모습 동작을 살려야 하는 사진(모두 정면으로 세웁니다)",
+      "배경, 풍경, 장면 전체가 필요한 경우(뒤에는 여백뿐입니다)",
+      "큰 눈의 만화 얼굴, 사실적인 세밀한 털, 검은 외곽선, 화려한 배색을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "الشخصية الصغيرة المتنكّرة",
+    "tagline": "يوقف العنصر الرئيسي في صورتك منتصباً بزيّ صغير، كشخصية من كتاب مصوّر تستعد للرحيل.",
+    "look": "تُحذف الخلفية والأرض والضوء والظلّ، ويقف العنصر منتصباً بمواجهة الناظر، يرتدي عباءة أو قلنسوة بلون واحد تنسدل من الكتفين أو قبعة مدبّبة، ويتكئ على عصا صغيرة أو يحمل شيئاً صغيراً من الصورة. الشخصية كلها بضع مساحات كبيرة مسطّحة من الألوان المائية الشفافة، تترك حوافها بعد الجفاف أثراً مائياً أدكن قليلاً، ويُرسم الفرو بفرشاة جافة، والوجه مجرد نقطتين سوداوين صغيرتين للعينين وطرف أنف صغير، بلا خطوط سوداء محيطة ولا ظلال. يحتفظ العنصر بألوانه الأصلية بدرجة أفتح، والزيّ بلون قماش ناعم باهت من كثرة الغسل، ولا يحمل لمسة لونية دافئة مشرقة إلا الشيء الذي في يده. خلفه أرضية بيضاء دافئة كاملة، وتحت قدميه بمسافة سطر واحد خافت بقلم الرصاص بخط اليد يقدّم بجدّية ما تنوي هذه الشخصية فعله.",
+    "traits": [
+      "وقفة منتصبة مواجهة",
+      "عباءة أو قلنسوة أو قبعة مدبّبة بلون واحد",
+      "أداة صغيرة في اليد",
+      "ألوان مائية مسطّحة بآثار الجفاف",
+      "عينان من نقطتين",
+      "سطر رصاص خافت"
+    ],
+    "good": [
+      "الحيوانات الأليفة والعائلة: قطة، كلب، جدّ أو جدّة، طفل",
+      "أشياء صغيرة يمكن أن تقف كشخصية: إبريق شاي، صبّارة في أصيص، دمية",
+      "صور فيها عدة عناصر، فتقف جنباً إلى جنب في صفّ واحد ولكل منها زيّه"
+    ],
+    "poor": [
+      "صور يجب أن تبقى فيها حركة الجري أو القفز أو الوقفة الجانبية، فكل الشخصيات تقف مواجهة",
+      "طلبات تحتاج إلى خلفية أو منظر طبيعي أو مشهد كامل، إذ لا يوجد خلف الشخصية إلا الفراغ",
+      "طلب وجوه كرتونية بعيون كبيرة أو فرو واقعي دقيق أو خطوط سوداء محيطة أو ألوان صاخبة"
+    ]
+  }
+}
